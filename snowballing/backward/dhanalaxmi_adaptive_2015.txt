@@ -1,0 +1,22 @@
+Hafiz Ansar Khan, Establishing a Defect Management Process Model for Software Quality Improvement, International Journal of future Computer and Communication, Vol. 2, No. 6, 2013.
+Muhammad Faizan, Sami Ulhaq and M.N.A. Khan, Defect Prevention and Process Improvement Methodology for Outsourced Software Projects, Middle-East Journal of Scientific Research, Vol. 19, No. 5, pp. 674-682, 2014.
+Suma V, Defect Prevention Approaches In Medium Scale It Enterprises, National Conference on Recent Research Trends in Information Technology, 2008.
+Suma. V. and T.R. Gopalakrishnan Nair, A Effective Defect Prevention Approach in Software Process for Achieving Better Quality Levels, World Academy of Science, Engineering and Technology, 2008.
+IrajHirmanpour and Joe Schofield, Defect Management through the Personal Software Process, The Journal of Defense Software Engineering, 2003.
+Mika V. Ma ̈ntyla ̈ and Casper Lassenius, What Types of Defects are really Discovered in Code Reviews?, IEEE Transactions on Software Engineering, Vol. 35, 2009.
+Pankaj Jalote and Naresh Agrawal, Using Defect analysis Feedback for Improving Quality and Productivity in Iterative Software Development, In proceedings of ITI 3rd International Conference on Information and Communications Technology, pp. 703-713, 2007.
+AudrisMockus and NachiappanNagappan, Test Coverage and Post-Verification Defects: A Multiple Case Study, Proceedings of the Third International Symposium on Empirical Software Engineering and Measurement, ESEM, pp. 291-301, 2009.
+Abhiraja Sharma, Naveen Hemrajani, SavitaShiwani and Ruchi Dave, Defect Prevention Technique in Test Case of Software Process for Quality Improvement, International Journal on Computer Technology Applications, Vol. 3, No. 1, pp. 56-61, 2012.
+Stefan Wagner, Defect Classification and Defect Types Revisited, ACM journal on software testing, 2008.
+Prakriti Trivedi and SomPachori, Modelling and Analysing of Software Defect Prevention Using ODC, International Journal of Advanced Computer Science and Applications, Vol. 1, No. 3, 2010.
+Muhammad Faizan, Muhammad Naeem Ahmed Khan and Sami Ulhaq, Contemporary Trends in Defect Prevention: A Survey Report, International Journal on Modern Education and Computer Science, Vol. 3, pp. 14-20, 2012.
+Yuan Jiang, Ming Li and Zhi-Hua Zhou, Software Defect Detection with ROCUS, Journal of Computer Science and Technology, 2011. 
+Capers Jones, Software Defect Origins and Removal Methods, 2012.
+Stefan Wagner, A Model and Sensitivity analysis of the Quality Economics of Defect-Detection Techniques, ACM journal on software testing, 2006.
+Eric Bean, Defect Prevention and Detection in Software for Automated test Equipment, IEEE Transactions on Instrumentation and Measurement, Vol. 11, No. 4, pp. 16-23, 2008.
+SakthiKumaresh and andBaskaran Ramachandran, Defect Prevention based on 5 Dimensions of Defect Origin, International Journal of Software Engineering & Applications (IJSEA), Vol.3, No.4, 2012.
+Sayed MehranSharafi, SHADD: A scenario-based approach to software architectural defects detection, Elsevier Journal of Advances in Engineering Software, 2012.
+Arpita Mittal and Sanjay kumarDubey, Defect Handling in Software Metrics, International Journal of Advanced Research in Computer and Communication Engineering, Vol. 1, May 2012.
+T.R. Gopalakrishnan Nair, V. Suma and P. Kumar Tiwari, Significance of Depth of Inspection and Inspection Performance Metrics for Consistent Defect Management in Software Industry, Journal of IET software, 2012.
+Marcos Kalinowski, David N. Card and Guilherme H. Travassos, Evidence-Based Guidelines to Defect Causal Analysis, IEEE Transactions on Software Engineering, 2012.
+T.R. Gopalakrishnan Nair and R. Selvarani, Defect Proneness Estimation and Feedback approach for Software design quality Improvement, Elsevier Journal of Information and Software technology, 2012.

@@ -1,0 +1,53 @@
+[1] N. Seliya, T.M. Khoshgoftaar, Software quality analysis of unlabeled program modules with semisupervised clustering, IEEE Trans. Syst., Man Cybernet., Part A: Syst. Hum. 37 (2007) 201–211.
+[2] T.M. Khoshgoftaar, N. Seliya, Analogy-based practical classification rules for software quality estimation, Empirical Softw. Eng. 8 (2003) 325–350.
+[3] M. Evett, T. Khoshgoftar, P.-D. Chien, E. Allen, GP-based software quality prediction, in: Proceedings of the Third Annual Conference Genetic Programming, 1998, pp. 60–65.
+[4] I. Koprinska, J. Poon, J. Clark, J. Chan, Learning to classify e-mail, Inform. Sci. 177 (2007) 2167–2187.
+[5] M.M.T. Thwin, T.-S. Quah, Application of neural networks for software quality prediction using object-oriented metrics, J. Syst. Softw. 76 (2005) 147–156.
+[6] T. Menzies, J. Greenwald, A. Frank, Data mining static code attributes to learn defect predictors, IEEE Trans. Softw. Eng. 33 (2007) 2–13.
+[7] K. El Emam, S. Benlarbi, N. Goel, S.N. Rai, Comparing case-based reasoning classifiers for predicting high risk software components, J. Syst. Softw. 55 (2001) 301–320.
+[8] X. Yuan, T.M. Khoshgoftaar, E.B. Allen, K. Ganesan, An application of fuzzy clustering to software quality prediction, in: Proceedings, 3rd IEEE Symposium on Application-Specific Systems and Software Engineering Technology, 2000, IEEE, 2000, pp. 85–90.
+[9] C. Catal, B. Diri, Software fault prediction with object-oriented metrics based artificial immune recognition system, in: Product-Focused Software Process Improvement, Springer, 2007, pp. 300–314.
+[10] C. Catal, B. Diri, A fault prediction model with limited fault data to improve test process, in: Product-Focused Software Process Improvement, Springer, 2008, pp. 244–257.
+[11] C. Catal, B. Diri, Software defect prediction using artificial immune recognition system, in: Proceedings of the 25th Conference on IASTED International Multi- Conference: Software Engineering, ACTA Press, 2007, pp. 285–290.
+[12] A.S. Haghighi, M.A. Dezfuli, S. Fakhrahmad, Applying mining schemes to software fault prediction: a proposed approach aimed at test cost reduction, in: Proceedings of the World Congress on Engineering, 2012, pp. 4–6.
+[13] M. Li, H. Zhang, R. Wu, Z.-H. Zhou, Sample-based software defect prediction with active and semi-supervised learning, Autom. Softw. Eng. 19 (2012) 201– 230.
+[14] N. Seliya, T.M. Khoshgoftaar, S. Zhong, Semi-supervised learning for software quality estimation, in: 16th IEEE International Conference on Tools with Artificial Intelligence, 2004, ICTAI 2004, IEEE, 2004, pp. 183–190.
+[15] N. Seliya, T.M. Khoshgoftaar, Software quality estimation with limited fault data: a semi-supervised learning perspective, Softw. Qual. J. 15 (2007) 327– 344.
+[16] H. Lu, B. Cukic, M. Culp, Software defect prediction using semi-supervised learning with dimension reduction, in: 2012 Proceedings of the 27th IEEE/ACM International Conference on Automated Software Engineering (ASE), IEEE, 2012, pp. 314–317.
+[17] H. Lu, B. Cukic, M. Culp, An iterative semi-supervised approach to software fault prediction, in: Proceedings of the 7th International Conference on Predictive Models in Software Engineering, ACM, 2011, p. 15.
+[18] G. Abaei, Z. Rezaei, A. Selamat, Fault prediction by utilizing self organizing map and threshold, in: IEEE International Conference on Control Systems, Computing and Engineering (ICCSCE 2013), IEEE, Penang, Malaysia, 2013, pp. 471–476.
+[19] C. Catal, U. Sevim, B. Diri, Clustering and metrics thresholds based software fault prediction of unlabeled program modules, in: Sixth International Conference on Information Technology: New Generations, 2009, ITNG’09, IEEE, 2009, pp. 199–204. 483.
+[20] C. Catal, U. Sevim, B. Diri, Metrics-driven software quality prediction without prior fault data, in: Electronic Engineering and Computing Technology, Springer, 2010, pp. 189–199.
+[21] S. Zhong, T.M. Khoshgoftaar, N. Seliya, Unsupervised learning for expert-based software quality estimation, in: HASE, Citeseer, 2004, pp. 149–155.
+[22] S. Zhong, T.M. Khoshgoftaar, N. Seliya, Analyzing software measurement data with clustering techniques, Intell. Syst., IEEE 19 (2004) 20–27.
+[23] P.S. Bishnu, V. Bhattacherjee, Software fault prediction using quad tree-based k-means clustering algorithm, IEEE Trans. Knowl. Data Eng. 24 (2012) 1146– 1150.
+[24] P. Tomsich, A. Rauber, D. Merkl, parSOM: using parallelism to overcome memory latency in self-organizing neural networks, in: High Performance Computing and Networking, Springer, 2000, pp. 136–145.
+[25] O.A. Abbas, Comparisons between data clustering algorithms, Int. Arab J. Inform. Technol. 5 (2008) 320–325.
+[26] C. Catal, B. Diri, Investigating the effect of dataset size, metrics sets, and feature selection techniques on software fault prediction problem, Inform. Sci. 179 (2009) 1040–1058.
+[27] G. Abaei, A. Selamat, A survey on software fault detection based on different prediction approaches, Vietnam J. Comput. Sci. (2013) 1–17.
+[28] C. Catal, Software fault prediction: a literature review and current trends, Expert Syst. Appl. 38 (2011) 4626–4636.
+[29] T. Hall, S. Beecham, D. Bowes, D. Gray, S. Counsell, A systematic literature review on fault prediction performance in software engineering, IEEE Trans. Softw. Eng. 38 (2012) 1276–1304.
+[30] G. Abaei, A. Selamat, Important issues in software fault prediction: a road map, in: IGI-Global (Ed.), Handbook of Research on Emerging Advancements and Technologies in Software Engineering, 2014.
+[31] C. Catal, Performance evaluation metrics for software fault prediction studies, Acta Polytechn. Hung. 9 (2012) 193–206.
+[32] N. Seliya, T.M. Khoshgoftaar, Software quality classification modeling using the PRINT decision algorithm, in: IEEE 14th Int’l Conf. Tools with Artificial Intelligence, 2002, pp. 365–374.
+[33] PROMISE, Promise Software Engineering Repository, 2012.
+[34] R. Marinescu, Detection strategies: metrics-based rules for detecting design flaws, in: Proceedings, 20th IEEE International Conference on Software Maintenance, 2004, IEEE, 2004, pp. 350–359.
+[35] ISM, Integrated Software Metrics, Inc. (ISM), INNOVA Commercialization Group, 2013.
+[36] I.S.M. Predictive Tool Inc, 2005.
+[37] T.J. McCabe, A complexity measure, IEEE Trans. Softw. Eng. (1976) 308–320. 
+[38] O. Alan, C. Catal, Thresholds based outlier detection approach for mining class outliers: an empirical case study on software measurement datasets, Expert Syst. Appl. 38 (2011) 3440–3445.
+[39] T. Kohonen, Self-organized formation of topologically correct feature maps, Biol. Cybernet. 43 (1982) 59–69.
+[40] F. Bação, V. Lobo, M. Painho, Self-organizing maps as substitutes for k-means clustering, in: Computational Science – ICCS 2005, Springer, 2005, pp. 476–
+[41] S. Marinai, SOM Clustering for Text Retrieval and Classification with Examples on Indian Scripts.
+[42] W. Pedrycz, G. Succi, P. Mus ́ılek, X. Bai, Using self-organizing maps to analyze object-oriented software measures, J. Syst. Softw. 59 (2001) 65–82.
+[43] P.J. Groenen, K. Jajuga, Fuzzy clustering with squared Minkowski distances, Fuzzy Sets Syst. 120 (2001) 227–237.
+[44] M. Attik, L. Bougrain, F. Alexandre, Self-organizing map initialization, in: Artificial Neural Networks: Biological Inspirations – ICANN 2005, Springer, 2005, pp. 357–362.
+[45] A.A. Akinduko, E.M. Mirkes, Initialization of Self-Organizing Maps: Principal Components Versus Random Initialization. A Case Study, 2012. arXiv preprint arXiv:1210.5873.
+[46] Y. Chen, B. Qin, T. Liu, Y. Liu, S. Li, The comparison of SOM and K-means for text clustering, Comput. Inform. Sci. 3 (2010) P268.
+[47] S.M. Varade, M. Ingle, Overview of software fault prediction using clustering approaches and tree data structure.
+[48] M. Vanmali, M. Last, A. Kandel, Using a neural network in the software testing process, Int. J. Intell. Syst. 17 (2002) 45–62.
+[49] H. Simons, Neural Networks: A Comprehensive Foundation, Prentice Hall, 1999.
+[50] N.T. Hunt, Sidney Stratify Sampling, 2001.
+[51] G. Boetticher, T. Menzies, T. Ostrand, PROMISE Repository of Empirical Software Engineering Data, West Virginia University, Department of Computer Science, 2007.
+[52] J. Vesanto, J. Himberg, E. Alhoniemi, J. Parhankangas, SOM Toolbox for Matlab 5, Citeseer, 2000.
+[53] J. Wendel, B.P. Buttenfield, Formalizing Guidelines for Building Meaningful Self-Organizing Maps, GIScience, Zurich, 2010.

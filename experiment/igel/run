@@ -1,0 +1,16 @@
+#!/usr/bin/env ksh
+set -euo pipefail
+
+for F in *.yaml
+do
+    for X in {0..0}
+    do
+        igel experiment -DP "../_data/jm1.csv ../_data/jm1.csv ../_pre/cm1_copy.csv" -yml ./$F
+        mv model_results model_results.$X.log
+    done
+    if [[ -d "$F.results" ]]; then
+        rm -rf $F.results
+    fi
+    mkdir $F.results
+    mv *.log $F.results
+done

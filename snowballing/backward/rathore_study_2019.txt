@@ -1,0 +1,194 @@
+Adrion WR, Branstad MA, Cherniavsky JC (1982) Validation, verification, and testing of computer software. ACM Comput Surv (CSUR) 14(2):159–192
+Afzal W (2011) Search-based prediction of software quality: evaluations and comparisons. PhD thesis, Blekinge Institute of Technology
+Afzal W, Torkar R, Feldt R, Wikstrand G (2010) Search-based prediction of fault-slip-through in large software projects. In: 2010 second international symposium on search based software engineering (SSBSE). IEEE, pp 79–88
+Agarwal C (2008) Outlier analysis. Technical report, IBM
+Ahsan S, Wotawa F (2011) Fault prediction capability of program file’s logical-coupling metrics. In: Software measurement, 2011 joint conference of the 21st international workshop on and 6th international conference on software process and product measurement (IWSM-MENSURA), pp 257–262
+Al Dallal J (2013) Incorporating transitive relations in low-level design-based class cohesion measurement. Softw Pract Exp 43(6):685–704
+Alan O, Catal C (2009) An outlier detection algorithm based on object-oriented metrics thresholds. In: 24th international symposium on computer and information sciences, ISCIS’09, pp 567–570
+Ardil E et al (2010) A soft computing approach for modeling of severity of faults in software systems. Int J Phys Sci 5(2):74–85
+Arisholm E (2004) Dynamic coupling measurement for object-oriented software. IEEE Trans Softw Eng 30(8):491–506
+Arisholm E, Briand L, Johannessen EB (2010a) A systematic and comprehensive investigation of methods to build and evaluate fault prediction models. J Syst Softw 1:2–17
+Arisholm E, Briand LC, Johannessen EB (2010b) A systematic and comprehensive investigation of methods to build and evaluate fault prediction models. J Syst Softw 83(1):2–17
+Armah GK, Guangchun L, Qin K (2013) Multi level data pre processing for software defect prediction. In: Proceedings of the 6th international conference on information management, innovation management and industrial engineering. IEEE Computer Society, pp 170–175
+Bansiya J, Davis C (2002) A hierarchical model for object-oriented design quality assessment. IEEE Trans Softw Eng 28(1):4–17
+Bibi S, Tsoumakas G, Stamelos I, Vlahvas I (2006) Software defect prediction using regression via classification. In: IEEE international conference on computer systems and applications, pp 330–336
+Binkley A, Schach S (1998) Validation of the coupling dependency metric as a predictor of run-time failures and maintenance measures. In: Proceedings of the 20th international conference on software engineering, pp 452–455
+Bird C, Nagappan N, Gall H, Murphy B, Devanbu P (2009) Putting it all together: using socio-technical networks to predict failures. In: Proceedings of the 2009 20th international symposium on software reliability engineering, ISSRE ’09. IEEE Computer Society, Washington, pp 109–119
+Bishnu PS, Bhattacherjee V (2012) Software fault prediction using quad tree-based k-means clustering algo- rithm. IEEE Trans Knowl Data Eng 24(6):1146–1151
+Bockhorst J, Craven M (2005) Markov networks for detecting overlapping elements in sequence data. In: Proceeding of the neural information processing systems, pp 193–200
+Briand L, Devanbu P, Melo W (1997) An investigation into coupling measures for C++. In: Proceeding of 19th international conference on software engineering, pp 412–421
+Briand L, John W, Wust KJ (1998) An unified framework for cohesion measurement in object-oriented systems. Empir Softw Eng J 3(1):65–117
+Briand L, Wst J, Lounis H (2001) Replicated case studies for investigating quality factors in object-oriented designs. Empir Softw Eng Int J 1:11–58
+Bundschuh M, Dekkers C (2008) The IT measurement compendium: estimating and benchmarking success with functional size measurement. Springer
+Bunescu R, Ruifang G, Rohit JK, Marcotte EM, Mooney RJ, Ramani AK, Wong YW (2005) Comparative experiments on learning information extractors for proteins and their interactions. Artif Intell Med (special issue on Summarization and Information Extraction from Medical Documents) 2:139–155
+Caglayan B, Misirli TA, Bener A, Miranskyy A (2015) Predicting defective modules in different test phases. Softw Qual J 23(2):205–227
+Calikli G, Bener A (2013) An algorithmic approach to missing data problem in modeling human aspects in software development. In: Proceedings of the 9th international conference on predictive models in software engineering, PROMISE ’13. ACM, New York, pp 1–10
+Calikli G, Tosun A, Bener A, Celik M (2009) The effect of granularity level on software defect prediction. In: 24th international symposium on computer and information sciences, ISCIS’09, pp 531–536
+Canfora G, Lucia AD, Penta MD, Oliveto R, Panichella A, Panichella S (2013) Multi-objective cross-project defect prediction. In: Proceedings of the 2013 IEEE sixth international conference on software testing, verification and validation, ICST ’13. IEEE Computer Society, Washington, pp 252–261
+Catal C (2011) Software fault prediction: a literature review and current trends. Expert Syst Appl J 38(4):4626– 4636
+Catal C, Diri B (2007) Software fault prediction with object-oriented metrics based artificial immune recog- nition system. In: Product-focused software process improvement, vol 4589 of lecture notes in computer science. Springer, Berlin, pp 300–314
+Catal C, Diri B (2008) A fault prediction model with limited fault data to improve test process. In: Product- focused software process improvement, vol 5089. Springer, Berlin pp 244–257
+Catal C, Sevim U, Diri B (2009) Software fault prediction of unlabeled program modules. In Proceedings of the world congress on engineering, vol 1, pp 1–3
+Challagulla V, Bastani F, Yen I-L, Paul R (2005) Empirical assessment of machine learning based software defect prediction techniques. In: 10th IEEE international workshop on object-oriented real-time depend- able systems, WORDS’05, pp 263–270
+Chatterjee S, Nigam S, Singh J, Upadhyaya L (2012) Software fault prediction using nonlinear autoregressive with exogenous inputs (narx) network. Appl Intell 37(1):121–129
+Chaturvedi K, Singh V (2012) Determining bug severity using machine learning techniques. In: CSI sixth international conference on software engineering (CONSEG’12), pp 1–6
+Chen J, Nair V, Menzies T (2017) Beyond evolutionary algorithms for search-based software engineering. arXiv preprint arXiv:1701.07950
+Chidamber S, Darcy D, Kemerer C (1998) Managerial use of metrics for object oriented software: an exploratory analysis. IEEE Trans Softw Eng 24(8):629–639
+Chidamber S, Kemerer C (1994) A metrics suite for object-oriented design. IEEE Trans Softw Eng 20(6):476– 493
+Chowdhury I, Zulkernine M (2011) Using complexity, coupling, and cohesion metrics as early indicators of vulnerabilities. J Syst Archit 57(3):294–313
+Couto C, Pires P, Valente MT, Bigonha RS, Anquetil N (2014) Predicting software defects with causality tests. J Syst Softw 93:24–41
+Cruz AE, Ochimizu K (2009) Towards logistic regression models for predicting fault-prone code across software projects. In: 3rd international symposium on empirical software engineering and measurement ESEM’09, pp 460–463
+Gray D, D. B., Davey N, Sun Y, Christianson B (2000) The misuse of the nasa metrics data program data sets for automated software defect prediction. In: Proceedings of 15th annual conference on evaluation and assessment in software engineering (EASE 2011. IEEE), pp 71–81
+Dallal JA, Briand LC (2010) An object-oriented high-level design-based class cohesion metric. Inf Softw Technol 52(12):1346–361
+Dejaeger K, Verbraken T, Baesens B (2013) Toward comprehensible software fault prediction models using bayesian network classifiers. IEEE Trans Softw Eng 39(2):237–257
+Devine T, Goseva-Popstajanova K, Krishnan S, Lutz R, Li J (2012) An empirical study of pre-release software faults in an industrial product line. In: 2012 IEEE fifth international conference on software testing, verification and validation (ICST), pp 181–190
+Drummond C, Holte RC (2006) Cost curves: an improved method for visualizing classifier performance. In: Machine learning, pp 95–130
+Elish K, Elish M (2008) Predicting defect-prone software modules using support vector machines. J Syst Softw 81(5):649–660
+Elish MO, Yafei AHA, Mulhem MA (2011) Empirical comparison of three metrics suites for fault prediction in packages of object-oriented systems: A case study of eclipse. Adv Eng Softw 42(10):852–859 Emam K, Melo W (1999) The prediction of faulty classes using object-oriented design metrics. In: Technical report: NRC 43609. NRC
+Erturk E, Sezer EA (2015) A comparison of some soft computing methods for software fault prediction. Expert Syst Appl 42(4):1872–1879
+Erturk E, Sezer EA (2016) Iterative software fault prediction with a hybrid approach. Appl Soft Comput 49:1020–1033
+Euyseok H (2012) Software fault-proneness prediction using random forest. Int J Smart Home 6(4):1–6 Ganesh JP, Dugan JB (2007) Empirical analysis of software fault content and fault proneness using bayesian methods. IEEE Trans Softw Eng 33(10):675–686
+Gao K, Khoshgoftaar TM (2007) A comprehensive empirical study of count models for software fault predic- tion. IEEE Trans Softw Eng 50(2):223–237
+Gao K, Khoshgoftaar TM, Seliya N (2012) Predicting high-risk program modules by selecting the right software measurements. Softw Qual J 20(1):3–42
+Glasberg D, Emam KE, Melo W, Madhavji N (1999) Validating object-oriented design metrics on a commercial java application. National Research Council Canada, Institute for Information Technology, pp 99–106 Graves T, Karr A, Marron J, Siy H (2000) Predicting fault incidence using software change history. IEEE Trans Softw Eng 26(7):653–661
+Gray D, Bowes D, Davey N, Sun Y, Christianson B (2011) The misuse of the nasa metrics data program data sets for automated software defect prediction. In: 15th annual conference on evaluation assessment in software engineering (EASE’11), pp 96–103
+Guo L, Cukic B, Singh H (2003) Predicting fault prone modules by the dempster–shafer belief networks. In: Proceedings of 18th IEEE international conference on automated software engineering, pp 249–252 Gupta K, Kang S (2011) Fuzzy clustering based approach for prediction of level of severity of faults in software systems. Int J Comput Electr Eng 3(6):845
+Gyimothy T, Ferenc R, Siket (2005) Empirical validation of object-oriented metrics on open source software for fault prediction. IEEE Trans Softw Eng 31(10):897–910
+Hall T, Beecham S, Bowes D, Gray D, Counsell S (2012) A systematic review of fault prediction performance in software engineering. IEEE Trans Softw Eng 38(6):1276–1304
+Halstead MH (1977) Elements of software science (operating and programming systems series). Elsevier Science Inc., New York
+Harrison R, Counsel JS (1998) An evaluation of the mood set of object-oriented software metrics. IEEE Trans Softw Eng 24(6):491–496
+Hassan AE (2009) Predicting faults using the complexity of code changes. In: Proceedings of the 31st inter- national conference on software engineering. IEEE Computer Society, pp 78–88
+Herbold S (2013) Training data selection for cross-project defect prediction. The 9th international conference on predictive models in software engineering (PROMISE ’13)
+Huihua L, Bojan C, Culp M (2011) An iterative semi-supervised approach to software fault prediction. In: Proceedings of the 7th international conference on predictive models in software engineering, PROMISE ’11, pp 1–15
+Ihara A, Kamei Y, Monden A, Ohira M, Keung JW, Ubayashi N, Matsumoto KI (2012) An investigation on software bug-fix prediction for open source software projects—a case study on the eclipse project. In: APSEC workshops. IEEE, pp 112–119
+Janes A, Scotto M, Pedrycz W, Russo B, Stefanovic M, Succi G (2006) Identification of defect-prone classes in telecommunication software systems using design metrics. Inf Sci J 176(24):3711–3734
+Jiang Y, Cukic B, Yan M (2008) Techniques for evaluating fault prediction models. Empir Softw Eng J 13(5):561–595
+Jianhong Z, Sandhu P, Rani S (2010) A neural network based approach for modeling of severity of defects in function based software systems. In: International conference on electronics and information engineering (ICEIE’10), vol 2, pp V2–568–V2–575
+Johnson AM Jr, Malek M (1988) Survey of software tools for evaluating reliability, availability, and service- ability. ACM Comput Surv (CSUR) 20(4):227–269
+Jureczko M (2011) Significance of different software metrics in defect prediction. Softw Eng Int J 1(1):86–95 Kamei Y, Sato H, Monden A, Kawaguchi S, Uwano H, Nagura M, Matsumoto K-I, Ubayashi N (2011) An empirical study of fault prediction with code clone metrics. In: Software measurement, 2011 joint conference of the 21st international workshop on and 6th international conference on software process and product measurement (IWSM-MENSURA), pp 55–61
+Kamei Y, Shihab E (2016) Defect prediction: accomplishments and future challenges. In: Proceeding of 23rd international conference on software analysis, evolution, and reengineering, vol 5, pp 33–45
+Kanmani S, Uthariaraj V, Sankaranarayanan V, Thambidurai P (2007) Object-oriented software fault prediction using neural networks. J Inf Softw Technol 49(5):483–492
+Kehan G, Khoshgoftaar TM, Wang H, Seliya N (2011) Choosing software metrics for defect prediction: an investigation on feature selection techniques. Softw Pract Exp 41(5):579–606
+Khoshgoftaar T, Gao K, Seliya N (2010) Attribute selection and imbalanced data: problems in software defect prediction. In: 2010 22nd IEEE international conference on, tools with artificial intelligence (ICTAI), vol 1, pp 137–144
+Kim S, Zhang H, Wu R, Gong L (2011) Dealing with noise in defect prediction. In: Proceedings of the 2011 IEEE and ACM international conference on software engineering, ICSE ’11. ACM, USA
+Kitchenham B (2010) What’s up with software metrics? A preliminary mapping study. J Syst Softw 83(1):37–51
+Koru AG, Hongfang L (2005) An investigation of the effect of module size on defect prediction using static measures. In: Proceedings of the 2005 workshop on predictor models in software engineering, PROMISE ’05, pp 1–5
+Kpodjedo S, Ricca F, Antoniol G, Galinier P (2009) Evolution and search based metrics to improve defects prediction. In: 2009 1st international symposium on, search based software engineering, pp 23–32 Krishnan S, Strasburg C, Lutz RR, Govseva-Popstojanova K (2011) Are change metrics good predictors for an evolving software product line? In: Proceedings of the 7th international conference on predictive models in software engineering, promise ’11. ACM, New York, pp 1–10
+Kubat M, Holte RC, Matwin S (1998) Machine learning for the detection of oil spills in satellite radar images. Mach Learn J 30(2–3):195–215
+Lamkanfi A, Demeyer S, Soetens Q, Verdonck T (2011) Comparing mining algorithms for predicting the severity of a reported bug. In: 2011 15th European conference on software maintenance and reengineering (CSMR), pp 249–258
+Lessmann S, Baesens B, Mues C, Pietsch S (2008) Benchmarking classification models for software defect prediction: a proposed framework and novel findings. IEEE Trans Softw Eng 34(4):485–496
+Lewis D, Gale WA (1994) A sequential algorithm for training text classifiers. In: Proceedings of the 17th annual international ACM SIGIR conference on research and development in information retrieval, SIGIR ’94, New York, NY, USA. Springer, New York, pp 3–12
+Li M, Zhang H, Wu R, Zhou Z (2012) Sample-based software defect prediction with active and semi-supervised learning. Autom Softw Eng 19(2):201–230
+Li W, Henry S (1993) Object-oriented metrics that predict maintainability. J Syst Softw 23(2):111–122
+Li W, Henry W (1996) A validation of object-oriented design metrics as quality indicators. IEEE Trans Softw Eng 22(10):751–761
+Li Z, Reformat M (2007) A practical method for the software fault-prediction. In: IEEE international conference
+on information reuse and integration, IRI’07. IEEE Systems, Man, and Cybernetics Society, pp 659–666 Liguo Y (2012) Using negative binomial regression analysis to predict software faults: a study of apache ant. Inf Technol Comput Sci 4(8):63–70
+Lorenz M, Kidd J (1994) Object-oriented software metrics. Prentice Hall, Englewood Cliffs
+Lu H, Cukic B (2012) An adaptive approach with active learning in software fault prediction. In: PROMISE. ACM, pp 79–88
+Lu H, Cukic B, Culp M (2012) Software defect prediction using semi-supervised learning with dimension reduction. In: 2011 26th IEEE and ACM international conference on automated software engineering (ASE 2011), pp. 314–317
+Ma Y, Luo G, Zeng X, Chen A (2012) Transfer learning for cross-company software defect prediction. Inf Softw Technol J 54(3):248–256
+Ma Y, Zhu S, Qin K, Luo G (2014) Combining the requirement information for software defect estimation in design time. Inf Process Lett 114(9):469–474
+Madeyski L, Jureczko M (2015) Which process metrics can significantly improve defect prediction models? an empirical study. Softw Qual J 23(3):393–422
+Malhotra R, Jain A (2012) Fault prediction using statistical and machine learning methods for improving software quality. J Inf Process Syst 8(2):241–262
+Marchesi M (1998) OOA metrics for the unified modeling language. In: Proceeding of 2nd Euromicro con- ference on Softwar eMaintenance and reengineering, pp 67–73
+Martin R (1995) OO design quality metrics—an analysis of dependencies. Road 2(3):151–170
+Matsumoto S, Kamei Y, Monden A, Matsumoto K, Nakamura M (2010) An analysis of developer metrics for fault prediction. In: PROMISE, p 18
+McCabe T J (1976) A complexity measure. IEEE Trans Softw Eng SE–2(4):308–320
+Mendes-Moreira J, Soares C, Jorge AM, Sousa JFD (2012) Ensemble approaches for regression: a survey. ACM Comput Surv (CSUR) 45(1):10
+Menzies T, Butcher A, Marcus A, Zimmermann T, Cok D (2011) Local vs. global models for effort estimation and defect prediction. In: Proceedings of the 2011 26th IEEE/ACM international conference on automated software engineering, ASE ’11. IEEE Computer Society, Washington, pp 343–351
+Menzies T, DiStefano J, Orrego A, Chapman R (2004) Assessing predictors of software defects. In: Proceedings of workshop predictive software models
+Menzies T, Greenwald J, Frank A (2007) Data mining static code attributes to learn defect predictors. IEEE Trans Softw Eng 33(1):2–13
+Menzies T, Milton Z, Burak T, Cukic B, Jiang Y, Bener et al (2010) Defect prediction from static code features: current results, limitations, new approaches. Autom Softw Eng 17(4):375–407
+Menzies T, Stefano J, Ammar K, McGill K, Callis P, Davis J, Chapman R (2003) When can we test less? In: Proceedings of 9th international software metrics symposium, pp 98–110
+Menzies T, Turhan B, Bener A, Gay G, Cukic B, Jiang Y (2008) Implications of ceiling effects in defect predictors. In: Proceedings of the 4th international workshop on predictor models in software engineering, PROMISE ’08. ACM, New York, pp 47–54
+Mitchell A, Power JF (2006) A study of the influence of coverage on the relationship between static and dynamic coupling metrics. Sci Comput Program 59(1–2):4–25
+Mizuno O, Hata H (2010) An empirical comparison of fault-prone module detection approaches: complexity metrics and text feature metrics. In: 2013 IEEE 37th annual computer software and applications conference, pp 248–249
+Moreno-Torres JG, Raeder T, Alaiz-Rodrguez R, Chawla NV, Herrera F (2012) A unifying view on dataset shift in classification. Pattern Recogn 45(1):521–530
+Moser R, Pedrycz W, Succi G (2008) A comparative analysis of the efficiency of change metrics and static code attributes for defect prediction. In: ICSE ’08. ACM/IEEE 30th international conference on software engineering, 2008, pp 181–190
+Nachiappan N, Zeller A, Zimmermann T, Herzig K, Murphy B (2010) Change bursts as defect predictors. In: Proceedings of the 2010 IEEE 21st international symposium on software reliability engineering, ISSRE ’10. IEEE Computer Society, pp 309–318
+Nagappan N, Ball T (2005) Use of relative code churn measures to predict system defect density. In: Proceedings of the 27th international conference on software engineering, ICSE ’05. ACM, New York, pp 284–292
+Nagappan N, Ball T, Zeller A (2006) Mining metrics to predict component failures. In: Proceedings of the 28th international conference on software engineering, ICSE ’06. ACM, New York, pp 452–461 Nguyen THD, Adams B, Hassan AE (2010) A case study of bias in bug-fix datasets. In: Proceedings of the 2010 17th working conference on reverse engineering, WCRE ’10. IEEE Computer Society, Washington, pp 259–268
+Nikora A P, Munson J C (2006) Building high-quality software fault predictors. Softw Pract Exp 36(9):949–969 Nugroho A, Chaudron MRV, Arisholm E (2010) Assessing uml design metrics for predicting fault-prone classes in a java system. In: 2010 7th IEEE working conference on mining software repositories (MSR), pp 21–30
+Ohlsson N, Zhao M, Helander M (1998) Application of multivariate analysis for software fault prediction. Softw Qual J 7(1):51–66
+Olague HM, Etzkorn H, Gholston L, Quattlebaum S (2007) Empirical validation of three software metrics suites to predict fault-proneness of object-oriented classes developed using highly iterative or agile software development processes. IEEE Trans Softw Eng 6:402–419
+Olson D (2008) Advanced data mining techniques. Springer, Berlin
+Ostrand TJ, Weyuker EJ, Bell RM (2004) Where the bugs are. In: Proceedings of 2004 international symposium on software testing and analysis, pp 86–96
+Ostrand TJ, Weyuker EJ, Bell RM (2005) Predicting the location and number of faults in large software systems. IEEE Trans Softw Eng 31(4):340–355
+Ostrand TJ, Weyuker EJ, Bell RM (2006) Looking for bugs in all the right places. In: Proceedings of 2006 international symposium on software testing and analysis, Portland, pp 61–72
+Ostrand TJ, Weyuker EJ, Bell RM (2010) Programmer-based fault prediction. In: Proceedings of the 6th international conference on predictive models in software engineering, PROMISE ’10. ACM, New York, pp 19–29
+Pandey AK, Goyal NK (2010) Predicting fault-prone software module using data mining technique and fuzzy logic. Int J Comput Commun Technol 2(3):56–63
+Panichella A, Oliveto R, Lucia AD (2014) Cross-project defect prediction models: L’union fait la force. In: 2014 software evolution week—IEEE conference on software maintenance, reengineering and reverse engineering (CSMR-WCRE), pp 164–173
+Park M, Hong E (2014) Software fault prediction model using clustering algorithms determining the number of clusters automatically. Int J Softw Eng Appl 8(7):199–204
+Peng H, Li B, Liu X, Chen J, Ma Y (2015) An empirical study on software defect prediction with a simplified metric set. Inf Softw Technol 59:170–190
+Peters F, Menzies T, Marcus A (2013) Better cross company defect prediction. In: 10th IEEE working con- ference on mining software repositories (MSR’13), pp 409–418
+Premraj R, Herzig K (2011) Network versus code metrics to predict defects: a replication study. In: 2011 international symposium on empirical software engineering and measurement (ESEM), pp 215–224
+Radjenovic D, Hericko M, Torkar R, Zivkovic A (2013) Software fault prediction metrics: a systematic literature review. Inf Softw Technol 55(8):1397–1418
+Rahman F, Devanbu P (2013) How, and why, process metrics are better. In: Proceedings of the 2013 international conference on software engineering, ICSE ’13. IEEE Press, Piscataway, pp 432–441
+Ramler R, Himmelbauer J (2013) Noise in bug report data and the impact on defect prediction results. In: 2013 joint conference of the 23rd international workshop on software measurement and the 2013 eighth international conference on software process and product measurement (IWSM-MENSURA), pp 173– 180
+Rana Z, Shamail S, Awais M (2009) Ineffectiveness of use of software science metrics as predictors of defects in object oriented software. In: WRI world congress on software engineering WCSE ’09, vol 4, pp 3–7 Rathore S, Gupta A (2012a) Investigating object-oriented design metrics to predict fault-proneness of software modules. In: 2012 CSI sixth international conference on software engineering (CONSEG), pp 1–10 Rathore S, Gupta A (2012b) Validating the effectiveness of object-oriented metrics over multiple releases for predicting fault proneness. In: 2012 19th Asia-Pacific software engineering conference (APSEC), vol 1, pp 350–355
+Rathore SS, Kumar S (2015a) Comparative analysis of neural network and genetic programming for number of software faults prediction. In: Recent advances in electronics & computer engineering (RAECE), 2015 national conference on. IEEE, pp 328–332
+Rathore SS, Kumar S (2015b) Predicting number of faults in software system using genetic programming. Proced Comput Sci 62:303–311
+Rathore SS, Kumar S (2016a) A decision tree logic based recommendation system to select software fault prediction techniques. Computing 99(3):1–31
+Rathore SS, Kumar S (2016b) A decision tree regression based approach for the number of software faults prediction. SIGSOFT Softw Eng Notes 41(1):1–6
+Rathore SS, Kumar S (2016c) An empirical study of some software fault prediction techniques for the number of faults prediction. Soft Comput 1–18. doi:10.1007/s00500-016-2284-x
+Rathore SS, Kumar S (2017) Linear and non-linear heterogeneous ensemble methods to predict the number of faults in software systems. Knowl Based Syst 119:232–256
+Rodriguez D, Herraiz I, Harrison R (2012) On software engineering repositories and their open problems. In: 2012 first international workshop on realizing artificial intelligence synergies in software engineering, pp 52–56
+Rodriguez D, Ruiz R, Cuadrado-Gallego J, Aguilar-Ruiz J, Garre M (2007) Attribute selection in software engineering datasets for detecting fault modules. In: Proceedings of the 33rd EUROMICRO conference on software engineering and advanced applications, EUROMICRO ’07, pp 418–423
+Rosenberg J (1997) Some misconceptions about lines of code. In: Proceedings of the 4th international sym- posium on software metrics, METRICS ’97. IEEE Computer Society, Washington
+Sandhu PS, Singh S, Budhija N (2011) Prediction of level of severity of faults in software systems using density based clustering. In: Proceedings of the 9th international conference on software and computer applications, IACSIT Press’11
+Satria WR, Suryana HN (2014) Genetic feature selection for software defect prediction. Adv Sci Lett 20(1):239–244
+Seiffert C, Khoshgoftaar T, Van Hulse J (2009) Improving software-quality predictions with data sampling and boosting. IEEE Trans Syst Man Cybern Part A Syst Hum 39(6):1283–1294
+Seiffert C, Khoshgoftaar TM, Hulse JV, Napolitano A (2008) Building useful models from imbalanced data with sampling and boosting. In: Proceedings of the 21st international FLAIRS conference, FLAIRS’08. AAAI Organization
+Seliya N, Khoshgoftaar TM (2007) Software quality estimation with limited fault data: a semi-supervised learning perspective. Softw Qual J 15:327–344
+Selvarani R, Nair TRG, Prasad VK (2009) Estimation of defect proneness using design complexity mea- surements in object-oriented software. In: Proceedings of the 2009 international conference on signal processing systems, ICSPS ’09. IEEE Computer Society, Washington, pp 766–770
+Shanthi PM, Duraiswamy K (2011) An empirical validation of software quality metric suites on open source software for fault-proneness prediction in object oriented systems. Eur J Sci 51(2):168–181
+Shatnawi R (2012) Improving software fault-prediction for imbalanced data. In: 2012 international conference on innovations in information technology (IIT), pp 54–59
+Shatnawi R (2014) Empirical study of fault prediction for open-source systems using the chidamber and kemerer metrics. Softw IET 8(3):113–119
+Shatnawi R, Li W (2008) The effectiveness of software metrics in identifying error-prone classes in post-release software evolution process. J Syst Softw 11:1868–1882
+Shatnawi R, Li W, Zhang H (2006) Predicting error probability in the eclipse project. In: Proceedings of the international conference on software engineering research and practice, pp 422–428
+Shepperd M, Qinbao S, Zhongbin S, Mair C (2013) Data quality: some comments on the nasa software defect datasets. IEEE Trans Softw Eng 39(9):1208–1215
+Shin Y, Bell R, Ostrand T, Weyuker E (2009) Does calling structure information improve the accuracy of fault prediction? In: 6th IEEE international working conference on mining software repositories, MSR ’09, pp 61–70
+Shin Y, Meneely A, Williams L, Osborne JA (2011) Evaluating complexity, code churn, and developer activity metrics as indicators of software vulnerabilities. IEEE Trans Softw Eng 37(6):772–787
+Shin Y, Williams L (2013) Can traditional fault prediction models be used for vulnerability prediction? Empir Softw Eng J 18(1):25–59
+Shivaji S, Jr, Akella JWE, R., Kim S (2009) Reducing features to improve bug prediction. In: Proceedings of the 2009 IEEE and ACM international conference on automated software engineering, ASE ’09. IEEE Computer Society, Washington, pp 600–604
+Singh P, Verma S (2012) Empirical investigation of fault prediction capability of object oriented metrics of open source software. In: 2012 international joint conference on computer science and software engineering, pp 323–327
+Stuckman J, Wills K, Purtilo J (2013) Evaluating software product metrics with synthetic defect data. In: 2013 ACM and IEEE international symposium on empirical software engineering and measurement, vol 1
+Sun Z, Song Q, Zhu X (2012) Using coding-based ensemble learning to improve software defect prediction. IEEE Trans Syst Man Cybern Part C Appl Rev 42(6):1806–1817
+Swapna S, Gokhale, Michael RL (1997) Regression tree modeling for the prediction of software quality. In: Proceeding of ISSAT’97, pp 31–36
+Szabo R, Khoshgoftaar T (1995) An assessment of software quality in a c++ environment. In: Proceedings sixth international symposium on software reliability engineering, pp 240–249
+Tahir A, MacDonell SG (2012) A systematic mapping study on dynamic metrics and software quality. In: 28th IEEE international conference on software maintenance (ICSM), pp 326–335
+Tang M, Kao MH, Chen MH (1999) An empirical study on object oriented metrics. In: Proceedings of the international symposium on software metrics, pp 242–249
+Tang W, Khoshgoftaar TM (2004) Noise identification with the k-means algorithm. In: Proceedings of the 16th IEEE international conference on tools with artificial intelligence, ICTAI ’04. IEEE Computer Society, Washington, pp 373–378
+Tomaszewski P, Hakansson J, Lundberg L, Grahn H (2006) The accuracy of fault prediction in modified code— statistical model vs. expert estimation. In: 13th annual IEEE international symposium and workshop on engineering of computer based systems, 2006. ECBS 2006, pp 343–353
+Tosun A, Bener A, Turhan B, Menzies T (2010) Practical considerations in deploying statistical methods for defect prediction: a case study within the turkish telecommunications industry. Inf Softw Technol 52(11):1242–1257 Special Section on Best Papers PROMISE 2009
+Turhan B, Bener A (2009) Analysis of naive bayes’ assumptions on software fault data: an empirical study. Data Knowl Eng 68(2):278–290
+Vandecruys O, Martens D, Baesens B, Mues C, Backer M D, Haesen R (2008) Mining software repositories for comprehensible software fault prediction models. J Syst Softw 81(5):823–839 Software Process and Product Measurement
+Venkata UB, Bastani BF, Yen IL (2006) A unified framework for defect data analysis using the mbr technique. In: Proceeding of 18th IEEE international conference on tools with artificial intelligence, ICTAI ’06, 2006, pp 39–46
+Verma R, Gupta A (2012) Software defect prediction using two level data pre-processing. In: 2012 international conference on recent advances in computing and software systems (RACSS), pp 311–317
+Wang H, Khoshgoftaar T, Gao K (2010a) A comparative study of filter-based feature ranking techniques. In: 2010 IEEE international conference on information reuse and integration (IRI), pp 43–48
+Wang H, Khoshgoftaar TM, Hulse JV (2010b) A comparative study of threshold-based feature selection techniques. In: Proceedings of the 2010 IEEE international conference on granular computing, GRC ’10. IEEE Computer Society, Washington, pp 499–504
+Wang S, Yao X (2013) Using class imbalance learning for software defect prediction. IEEE Trans Reliab 62(2):434–443
+Wasikowski M, Chen X (2010) Combating the small sample class imbalance problem using feature selection. IEEE Trans Knowl Data Eng 22(10):1388–1400
+Weyuker EJ, Ostrand TJ, Bell MR (2007) Using developer information as a factor for fault prediction. In: Proceedings of the third international workshop on predictor models in software engineering, PROMISE ’07. IEEE Computer Society, Washington, pp 8–18
+Wong W E, Horgan J R, Syring M, Zage W, Zage D (2000) Applying design metrics to predict fault-proneness: a case study on a large-scale software system. Softw Pract Exp 30(14):1587–1608
+Wu F (2011) Empirical validation of object-oriented metrics on nasa for fault prediction. In:Tan H, Zhou M (eds) Advances in information technology and education, vol 201. Springer, Berlin, pp 168–175
+Wu Y, Yang Y, Zhao Y, Lu H, Zhou Y, Xu B (2014) The influence of developer quality on software fault-proneness prediction. In: 2014 eighth international conference on software security and reliability (SERE), pp 11–19
+Xia Y, Yan G, Jiang X, Yang Y (2014) A new metrics selection method for software defect prediction. In: 2014 International conference on progress in informatics and computing (PIC), pp 433–436
+Xiao J, Afzal W (2010) Search-based resource scheduling for bug fixing tasks. In: 2010 second international symposium on search based software engineering (SSBSE). IEEE, pp 133–142
+Xu Z, Khoshgoftaar TM, Allen EB (2000) Prediction of software faults using fuzzy nonlinear regression modeling. In: High assurance systems engineering, 2000, Fifth IEEE international symposium on. HASE 2000. IEEE, pp 281–290
+Yacoub S, Ammar H, Robinson T (1999) Dynamic metrics for object-oriented designs. In: Proceeding of the 6th international symposium on software metrics (Metrics’99), pp 50–60
+Yadav HB, Yadav DK (2015) A fuzzy logic based approach for phase-wise software defects prediction using software metrics. Inf Softw Technol 63:44–57
+Yan M, Guo L, Cukic B (2007) Statistical framework for the prediction of fault-proneness. In: Advance in machine learning application in software engineering. Idea Group
+Yan Z, Chen X, Guo P (2010) Software defect prediction using fuzzy support vector regression. In: International symposium on neural networks. Springer, pp 17–24
+Yang C, Hou C, Kao W, Chen I (2012) An empirical study on improving severity prediction of defect reports using feature selection. In: 2012 19th Asia-Pacific software engineering conference (APSEC), vol 1, pp 350–355
+Yang X, Tang K, Yao X (2015) A learning-to-rank approach to software defect prediction. IEEE Trans Reliab 64(1):234–246
+Yasser A Khan, MOE, El-Attar M (2011) A systematic review on the relationships between ck metrics and external software quality attributes. Technical report
+Youden WJ (1950) Index for rating diagnostic tests. Cancer 3(1):32–35
+Yousef W, Wagner R, Loew M (2004) Comparison of non-parametric methods for assessing classifier perfor- mance in terms of roc parameters. In: Proceedings of international symposium on information theory, 2004. ISIT 2004, pp 190–195
+Zhang H (2009) An investigation of the relationships between lines of code and defects. In: IEEE international conference on software maintenance (ICSM), pp 274–283
+Zhang W, Yang Y, Wang Q (2011) Handling missing data in software effort prediction with naive Bayes and EM algorithm. In: Proceedings of the 7th international conference on predictive models in software engineering, PROMISE ’11. ACM, New York, pp 1–10
+Zhang X, Gupta N, Gupta R (2007) Locating faulty code by multiple points slicing. Softw Pract Exp 37(9):935– 961
+Zhimin H, Fengdi S, Yang Y, Li M, Wang Q (2012) An investigation on the feasibility of cross-project defect prediction. Autom Software Eng 19(2):167–199
+Zhou Y, Leung H (2006) Empirical analysis of object-oriented design metrics for predicting high and low severity faults. IEEE Trans Softw Eng 10:771–789
+Zhou Y, Xu B, Leung H (2010) On the ability of complexity metrics to predict fault-prone classes in object oriented systems. J Syst Softw 83(4):660–674
+Zimmermann T, Nagappan N, Gall H, Giger E, Murphy B (2009) Cross-project defect prediction: A large scale experiment on data vs. domain vs. process. In: Proceedings of the the 7th joint meeting of the European software engineering conference and the ACM SIGSOFT symposium on the foundations of software engineering, ESEC and FSE ’09. ACM, New York, pp 91–100

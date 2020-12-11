@@ -1,0 +1,48 @@
+Abreu, R., Zoeteweij, P., Golsteijn, R., & Van Gemund, A. J. C. (2009). A practical evaluation of spectrum- based fault localization. Journal of Systems and Software, 82(11), 1780–1792.
+Afshan, S., McMinn, P., & Stevenson, M. (2013). Evolving readable string test inputs using a natural language model to reduce human oracle cost. In Proceedings of IEEE Sixth International Conference on Software Testing, Verification and Validation (ICST), Luxembourg (pp. 352–361).
+Agrawal, H., DeMillo, R. A., & Spafford, E. H. (1996). Debugging with dynamic slicing and backtracking. Software—Practice and Experience, 23(6), 589–616.
+Agrawal, H., Horgan, J. R., London, S., & Wong, W. E. (1995). Fault localization using execution slices and dataflow tests. In Proceedings of the 6th International Symposium on Software Reliability Engineering, Toulouse, France (pp. 143–15).
+Andrews, J. H., Briand, L. C., & Labiche, Y. (2005). Is mutation an appropriate tool for testing experiments? In Proceedings of the 27th International Conference on Software Engineering, St. Louis, Missouri, USA (pp. 402–411).
+Bookstein, A., Kulyukin, V. A., & Raita, T. (2002). Generalized Hamming distance. Information Retrieval, 5(4), 353–375.
+Cleve, H., & Zeller, A. (2005). Locating causes of program failures. In Proceedings of the 27th International Conference on Software Engineering, St. Louis, Missouri, USA (pp. 342–351).
+Do, H., & Rothermel, G. (2006). On the use of mutation faults in empirical assessments of test case prioritization techniques. IEEE Transactions on Software Engineering, 32(9), 733–752.
+Everitt, B. S. (1977). The analysis of contingency tables. London: Chapman & Hall.
+Freeman, D. (1987). Applied categorical data analysis. New York: Marcel Dekker.
+Goodman, L. A. (1984). The analysis of cross-classification data having ordered categories. Cambridge: Harvard University Press.
+Hamming, R. W. (1950). Error detecting and error correcting codes. Bell System Technical Journal, 29(2), 147–160.
+Harman, M., Kim, S. G., Lakhotia, K., McMinn, P., & Yoo, S. (2010). Optimizing for the number of tests generated in search based test data generation with an application to the oracle cost problem. In Proceedings of the 3rd International Conference on Software Testing, Verification, and Validation Workshops (ICSTW), Paris, France (pp. 182–191).
+Hartigan, J. A., & Wong, M. A. (1979). Algorithm AS 136: A K-Means clustering algorithm. Applied Statistics, 28(1), 100–108.
+Hierons, R. M. (2009). Verdict functions in testing with a fault domain or test hypotheses. ACM Trans- actions on Software Engineering and Methodology, 18(4), 14.
+Hierons, R. M. (2012). Oracles for distributed testing. IEEE Transactions on Software Engineering, 38(3), 629–641.
+Horgan, J. R., & London, S. A. (1991). Data flow coverage and the C language. In Proceedings of the 4th Symposium on Software Testing, Analysis, and Verification, Victoria, British Columbia, Canada (pp. 87–97).
+Jeffrey, D., Gupta, N., & Gupta, R. (2008). Fault localization using value replacement. In Proceedings of Internet Symposium of Software Testing and Analysis, Seattle, Washington, USA (pp. 167–178). Jeffrey, D., Gupta, N., & Gupta, R. (2009). Effective and efficient localization of multiple faults using value replacement. In Proceedings of International Conference on Software Maintenance, Edmonton, Canada (pp. 221–230).
+Jones, J. A., Bowring, J., & Harrold, M. J. (2007). Debugging in parallel. In Proceedings of the 2007 International Symposium on Software Testing and Analysis, London, UK (pp. 16–26).
+Jones, J. A., & Harrold, M. J. (2005). Empirical evaluation of the tarantula automatic fault-localization technique. In Proceedings of the 20th IEEE/ACM Conference on Automated Software Engineering, Long Beach, California, USA (pp. 273–282).
+Liu, C., Fei, L., Yan, X., Han, J., & Midkiff, S. P. (2006). Statistical debugging: A hypothesis testing-based approach. IEEE Transactions on Software Engineering, 32(10), 831–848.
+Lyle, J. R., & Weiser, M. (1987). Automatic program dug location by program slicing. In Proceedings of the 2nd International Conference on Computer and Applications, Beijing, China (pp. 877–883). 
+Machado, P. D. L., & Andrade, W. L. (2007). The oracle problem for testing against quantified properties. In Proceedings of the 7th International Conference on Quality Software, Portland, Oregon, USA (pp. 415–418).
+MacQueen, J. (1967). Some methods for classification and analysis of multivariate observations. In Pro- ceedings of the 5th Berkeley Symposium on Mathematical Statistics and Probability (Vol. 1, pp. 281–297).
+McMinn, P., Stevenson, M., & Harman, M. (2010). Reducing qualitative human oracle costs associated with automatically generated test data. In Proceedings of the First International Workshop on Software Test Output Validation, Trento, Italy (pp. 1–4).
+Naish, L., Lee, H. J., & Ramamohanarao, K. (2011). A model for spectra-based software diagnosis. ACM Transactions on Software Engineering and Methodology, 20(3), 11:1–11:32.
+Namin, A. S., Andrews, J. H., & Labiche, Y. (2006). Using mutation analysis for assessing and comparing testing coverage criteria. IEEE Transactions on Software Engineering, 32(8), 608–624.
+Offutt, A. J., Lee, A., Rothermel, G., Untch, R. H., & Zapf, C. (1996). An experimental determination of sufficient mutant operators. ACM Transactions on Software Engineering and Methodology, 5(2), 99–118.
+Ott, R. L. (1993). An introduction to statistical methods and data analysis (4th ed.). North Scituate: Duxbury Press.
+Renieris, M., & Reiss, S. P. (2003). Fault localization with nearest neighbor queries. In Proceedings of the 18th International Conference on Automated Software Engineering, Montreal, Canada (pp. 30–39). 
+Santelices, R., Jones, J. A., Yu, Y., & Harrold, M. J. (2009). Lightweight fault-localization using multiple coverage types. In Proceedings of the 31st International Conference on Software Engineering, Vancouver, Canada (pp. 56–66).
+Shahamiri, S. R., Kadir, W. M. N. W., & Mohd-Hashim, S. Z. (2009). A comparative study on automated software test oracle methods. In Proceedings of the 4th International Conference on Software Engineering Advances, Porto, Portugal (pp. 140–145).
+The Software Infrastructure Repository. http://sir.unl.edu/portal/index.html.
+Wang, Y., Chen, Z., Feng, Y., Luo, B., & Yang, Y. (2012). Using weighted attributes to improve cluster test selection. In Proceedings of the 6th IEEE International Conference on Software Security and Reliability (SERE), Washington D.C. (pp. 138–146).
+Weiser, M. (1982). Programmers use slices when debugging. Communications of the ACM, 25(7), 446–452. Wong, W. E., Debroy, V., & Choi, B. (2010). A family of code coverage-based heuristics for effective fault localization. Journal of Systems and Software, 83(2), 188–208.
+Wong, W. E., Debroy, V., Gao, R., & Li, Y. (2014). The DStar method for effective software fault localization. IEEE Transactions on Reliability, 62(4), 290–308.
+Wong, W. E., Debroy, V., Golden, R., Xu, X., & Thuraisingham, B. (2012a). Effective software fault localization using an RBF neural network. IEEE Transactions on Reliability, 61(1), 149–169.
+Wong, W. E., Debroy, V., & Xu, D. (2012b). Towards better fault localization: A crosstab-based statistical approach. IEEE Transactions on Systems, Man, and Cybernetics—Part C, 42(3), 378–396.
+Wong, W. E., Horgan, J. R., London, S., & Mathur, A. P. (1998). Effect of test set minimization on fault detection effectiveness. Software—Practice and Experience, 28(4), 347–369.
+Wong, W. E., & Mathur, A. P. (1995a). Fault detection effectiveness of mutation and data flow testing. Software Quality Journal, 4(1), 69–83.
+Wong, W. E., & Mathur, A. P. (1995b). Reducing the cost of mutation testing: An empirical study. Journal of Systems and Software, 31(3), 185–196.
+Xie, X., Wong, W. E., Chen, T. Y., & Xu, B. (2013). Metamorphic slice: An application in spectrum-based fault localization. Information and Software Technology, 55(5), 866–879.
+Yan, S., Chen, Z., Zhao, Z., Zhang, C., & Zhou, Y. (2010). A dynamic test cluster sampling strategy by leveraging execution spectra information. In Proceedings of IEEE 3rd International Conference on Software Testing, Verification and Validation (ICST), Paris, France (pp. 147–154).
+Yu, Y., Jones, J. A., & Harrold, M. J. (2008). An empirical study on the effects of test-suite reduction on fault localization. In Proceedings of the International Conference on Software Engineering (ICSE), Leipzig, Germany (pp. 201–210).
+Zhang, X., Gupta, N., & Gupta, R. (2006). Locating faults through automated predicate switching. In Proceedings of the 28th International Conference on Software Engineering, Shanghai, China (pp. 272–281).
+Zhang, X., Gupta, N., & Gupta, R. (2007). A study of effectiveness of dynamic slicing in locating real faults. Empirical Software Engineering, 12(2), 143–160.
+Zhang, Z., Jiang, B., Chan, W. K., Tse, T. H., & Wang, X. (2010). Fault localization through evaluation sequences. Journal of System and Software, 83(2), 174–187.
+vSuds User’s Manual, Telcordia Technologies (1998).

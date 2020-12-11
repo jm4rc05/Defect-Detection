@@ -1,0 +1,20 @@
+dataset:
+  preprocess:
+    missing_values: mean
+    scale:
+      method: standard
+      target: inputs
+
+  split:
+    shuffle: true
+    test_size: 0.2
+    stratify: default
+
+  type: csv
+
+model:
+  type: classification
+  algorithm: BernoulliRBM
+
+target:
+    - c
